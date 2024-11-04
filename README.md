@@ -1,45 +1,31 @@
 # README 
-
-This repo contains a collection of notebooks which contain implementations, notes and complexity analysis on an assorted collection of data structures and algorithms. All implementations are done in Python. 
+This repo contains a collection of Jupyter notebooks, each containing implementations, notes and complexity analysis on an assorted collection of data structures and algorithms. I designed this as a reference for myself, educationally (or even as a reference for others) this of little value.  
 
 # Progress 
 
 ### Data Structures
 
 - Linked Lists
-Notebook: Code complete, text incomplete 
-Exercises: Incomplete
-Solutions: Incomplete
+Complete
 
 - Binary Search Trees
-Notebook: Incomplete
-Exercises: Incomplete
-Solutions: Incomplete 
+Incomplete
 
 - AVL Tree
-Notebook: Incomplete
-Exercises: Incomplete
-Solutions: Incomplete
+Incomplete
 
 - Heaps
-Notebook: Incomplete
-Exercises: Incomplete
-Solutions: Incomplete
-
-- Sets
-Notebook: Incomplete
-Exercises: Incomplete
-Solutions: Incomplete
+Incomplete
 
 - Queues
-Notebook: Incomplete
-Exercises: Incomplete
-Solutions: Incomplete
+Incomplete
 
 ### Algorithms 
 
+- Sorting Algorithms
+  - Bubble: Complete
+  - Insertion: Complete
+  - Merge: Complete
+  - Quick: Incomplete
+  - Radix: Incomplete
 
-# Roadmap 
-
-- Repeat with C++ 
-- 
