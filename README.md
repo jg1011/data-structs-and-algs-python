@@ -1,6 +1,6 @@
 # README 
 
-This repo contains a collection of notebooks which contain implementations, notes and complexity analysis on an assorted collection of data structures and algorithms. All implementations are done in Python. Exercises are also available, with solutions, for those who wish to use this repo educationally rather than as a reference. The questions primarily come from leetcode, however I've also thrown in some in text questions that are my own work. 
+This repo contains a collection of notebooks which contain implementations, notes and complexity analysis on an assorted collection of data structures and algorithms. All implementations are done in Python. 
 
 # Progress 
 
